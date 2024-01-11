@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sahil-Jethwani)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Sahil-Jethwani/Sahil-Jethwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
